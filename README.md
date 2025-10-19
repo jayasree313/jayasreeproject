@@ -1,9 +1,9 @@
-#jayasreeproject
+# jayasreeproject
 My final project which is based  on artificial intelligence and generative ai
 
-#YBI Generative AI Internship Project
+# YBI Generative AI Internship Project
 
-##Project Title
+## Project Title
 AI-Powered Resume Generator
 
 ##  Description
